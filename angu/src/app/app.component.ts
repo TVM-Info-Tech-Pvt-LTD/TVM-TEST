@@ -6,10 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-<<<<<<< HEAD
   title = 'angu';
   name = 'Coder';
-=======
-  title = 'TVM';
->>>>>>> 0f3aaef380f3f73f44c01169f65ef0595749b209
+  stitle = 'TVM';
+  deva = 'wel';
 }
